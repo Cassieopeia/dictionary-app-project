@@ -5,8 +5,8 @@ function App() {
     <div className="App">
       <div className="container">
      <h1>Dictionary</h1>
-     <Dictionary />
      <h3>Enter a keyword you would like to search</h3>
+     <Dictionary />
      </div> 
     </div>
   );
