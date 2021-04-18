@@ -1,12 +1,17 @@
+body {
+  background: rgb(213, 222, 240) 61%;
+}
+
 h1 {
-  font-size: 60px;
-  color: #ff4271;
+  font-size: 70px;
+  color: #fffff1;
   text-align: center;
   padding-top: 30px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 25px;
+  color: rgb(142, 141, 204);
   text-align: center;
   padding-bottom: 20px;
 }
