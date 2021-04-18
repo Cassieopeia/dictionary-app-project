@@ -6,7 +6,7 @@ function App() {
       <div className="container">
      <h1>Dictionary</h1>
      <h3>What word do you want to look up?</h3>
-     <Dictionary defaultKeyword="serendipity"/>
+     <Dictionary defaultKeyword="crescent"/>
      </div> 
      <div className="Footer">
      <p> <a href="https://github.com/Cassieopeia/dictionary-app-project" target="_blank" rel="noreferrer">
